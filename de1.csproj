@@ -90,6 +90,7 @@
     <Content Include="SearchBeverage.aspx" />
     <Content Include="service.aspx" />
     <Content Include="style.css" />
+    <Content Include="UserControl\Bai4.ascx" />
     <Content Include="UserControl\ucQL.ascx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -160,6 +161,13 @@
     </Compile>
     <Compile Include="service.aspx.designer.cs">
       <DependentUpon>service.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\Bai4.ascx.cs">
+      <DependentUpon>Bai4.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControl\Bai4.ascx.designer.cs">
+      <DependentUpon>Bai4.ascx</DependentUpon>
     </Compile>
     <Compile Include="UserControl\ucQL.ascx.cs">
       <DependentUpon>ucQL.ascx</DependentUpon>

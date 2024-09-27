@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\add\\Documents\\Zalo Received Files\\source_code_de2\\",
+  "WorkspaceRootPath": "D:\\Visual Studio\\SDL\\gacondakia1234-6351071063_WPK63_MID_UTC2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\add\\Documents\\Zalo Received Files\\source_code_de2\\defaultpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|d:\\visual studio\\sdl\\gacondakia1234-6351071063_wpk63_mid_utc2\\defaultpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:defaultpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\add\\Documents\\Zalo Received Files\\source_code_de2\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|D:\\Visual Studio\\SDL\\gacondakia1234-6351071063_WPK63_MID_UTC2\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\add\\Documents\\Zalo Received Files\\source_code_de2\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|D:\\Visual Studio\\SDL\\gacondakia1234-6351071063_WPK63_MID_UTC2\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|c:\\users\\add\\documents\\zalo received files\\source_code_de2\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|D:\\Visual Studio\\SDL\\gacondakia1234-6351071063_WPK63_MID_UTC2\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,27 +41,30 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Web.sitemap",
-              "DocumentMoniker": "C:\\Users\\add\\Documents\\Zalo Received Files\\source_code_de2\\Web.sitemap",
+              "DocumentMoniker": "D:\\Visual Studio\\SDL\\gacondakia1234-6351071063_WPK63_MID_UTC2\\Web.sitemap",
               "RelativeDocumentMoniker": "Web.sitemap",
-              "ToolTip": "C:\\Users\\add\\Documents\\Zalo Received Files\\source_code_de2\\Web.sitemap",
+              "ToolTip": "D:\\Visual Studio\\SDL\\gacondakia1234-6351071063_WPK63_MID_UTC2\\Web.sitemap",
               "RelativeToolTip": "Web.sitemap",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002838|",
-              "WhenOpened": "2024-09-25T09:53:54.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T09:53:54.87Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DefaultPageMaster.Master",
-              "DocumentMoniker": "C:\\Users\\add\\Documents\\Zalo Received Files\\source_code_de2\\DefaultPageMaster.Master",
+              "DocumentMoniker": "D:\\Visual Studio\\SDL\\gacondakia1234-6351071063_WPK63_MID_UTC2\\DefaultPageMaster.Master",
               "RelativeDocumentMoniker": "DefaultPageMaster.Master",
-              "ToolTip": "C:\\Users\\add\\Documents\\Zalo Received Files\\source_code_de2\\DefaultPageMaster.Master",
+              "ToolTip": "D:\\Visual Studio\\SDL\\gacondakia1234-6351071063_WPK63_MID_UTC2\\DefaultPageMaster.Master",
               "RelativeToolTip": "DefaultPageMaster.Master",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-09-24T04:05:03.117Z",
               "EditorCaption": ""
@@ -70,27 +73,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "home.aspx",
-              "DocumentMoniker": "C:\\Users\\add\\Documents\\Zalo Received Files\\source_code_de2\\home.aspx",
+              "DocumentMoniker": "D:\\Visual Studio\\SDL\\gacondakia1234-6351071063_WPK63_MID_UTC2\\home.aspx",
               "RelativeDocumentMoniker": "home.aspx",
-              "ToolTip": "C:\\Users\\add\\Documents\\Zalo Received Files\\source_code_de2\\home.aspx",
+              "ToolTip": "D:\\Visual Studio\\SDL\\gacondakia1234-6351071063_WPK63_MID_UTC2\\home.aspx",
               "RelativeToolTip": "home.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-24T03:51:45.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T03:51:45.927Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\add\\Documents\\Zalo Received Files\\source_code_de2\\style.css",
+              "DocumentMoniker": "D:\\Visual Studio\\SDL\\gacondakia1234-6351071063_WPK63_MID_UTC2\\style.css",
               "RelativeDocumentMoniker": "style.css",
-              "ToolTip": "C:\\Users\\add\\Documents\\Zalo Received Files\\source_code_de2\\style.css",
+              "ToolTip": "D:\\Visual Studio\\SDL\\gacondakia1234-6351071063_WPK63_MID_UTC2\\style.css",
               "RelativeToolTip": "style.css",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-24T03:43:41.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T03:43:41.474Z"
             }
           ]
         },

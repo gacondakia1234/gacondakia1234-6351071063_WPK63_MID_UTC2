@@ -24,12 +24,12 @@ namespace de1.UserControl
         protected global::System.Web.UI.WebControls.ListView ListView1;
 
         /// <summary>
-        /// bai4DataSoure control.
+        /// Bai4EntityDataSource control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.EntityDataSource bai4DataSoure;
+        protected global::System.Web.UI.WebControls.EntityDataSource Bai4EntityDataSource;
     }
 }
